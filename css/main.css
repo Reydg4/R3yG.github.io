@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #ffc0cb;
+    background-color: #087979;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -15,7 +15,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: pink;
 }
 a:hover {
     text-decoration: underline;
@@ -30,8 +30,9 @@ p {
     color: #333;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid pink;
     font-size: .8em;
+    color: pink;
 }
 
 ul.posts { 
@@ -41,4 +42,11 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+.poem { 
+    color: pink;
+}
+.Lucy{
+    color: pink;
 }
