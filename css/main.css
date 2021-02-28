@@ -52,3 +52,7 @@ ul.posts li {
     font-family: cursive;
     font-style: italic;
 }
+.picture {
+    width: 300px;
+    height: auto;
+}
