@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #087979;
+    background-color: #A88BEB;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -15,7 +15,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: pink;
+    color: #F8CEEC;
 }
 a:hover {
     text-decoration: underline;
@@ -30,9 +30,9 @@ p {
     color: #333;
 }
 footer {
-    border-top: 1px solid pink;
+    border-top: 1px solid #F8CEEC;
     font-size: .8em;
-    color: pink;
+    color: #F8CEEC;
 }
 
 ul.posts { 
@@ -45,10 +45,10 @@ ul.posts li {
 }
 
 .poem { 
-    color: pink;
+    color: #F8CEEC;
 }
 .Corrin {
-    color: pink;
+    color: #F8CEEC;
     font-family: cursive;
     font-style: italic;
 }
