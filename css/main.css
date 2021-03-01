@@ -1,22 +1,24 @@
 body {
     margin: 60px auto;
-    width: 70%;
-    background-color: #A88BEB;
+    background-image: linear-gradient(to bottom right, #A88BEB, #F8CEEC);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
 }
-nav ul, footer ul {
+nav ul{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
     text-align: center;
 }
-nav ul li, footer ul li {
+nav ul li{
     display: inline;
     margin-right: 20px;
 }
 a {
     text-decoration: none;
-    color: #F8CEEC;
+    color: #B95835;
 }
 a:hover {
     text-decoration: underline;
@@ -25,34 +27,16 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
-}
-footer {
-    border-top: 1px solid #F8CEEC;
-    font-size: .8em;
-    color: #F8CEEC;
-}
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
 
-ul.posts li {
-    list-style: none;
-}
-
-.poem { 
-    color: #F8CEEC;
-}
 .Corrin {
-    color: #F8CEEC;
     font-family: cursive;
     font-style: italic;
     text-align: center;
+    color: #B95835; 
+}
+.photo {
+    display:grid;
 }
 .picture {
     width: 300px;
