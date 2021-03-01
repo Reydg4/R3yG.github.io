@@ -1,0 +1,43 @@
+body {
+    margin: 60px auto;
+    background-image: linear-gradient(to bottom right, #A88BEB, #F8CEEC);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+nav ul{
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    position: fixed;
+    right: 50%;
+    top: -5px;
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: #B95835;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+.Pictures{
+    height: 800px;
+    width: auto;
+    display: flex;
+}
+.pics {
+    padding: 15px;
+    height: 800px;
+    width:auto;
+    flex-shrink: 0;
+}
+
