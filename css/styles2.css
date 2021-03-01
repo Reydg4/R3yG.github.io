@@ -1,6 +1,8 @@
 body {
     margin: 60px auto;
     background-image: linear-gradient(to bottom right, #A88BEB, #F8CEEC);
+    margin-left: -100px;
+    margin-right: -100px;
     background-repeat: no-repeat;
     background-attachment: fixed;
     
