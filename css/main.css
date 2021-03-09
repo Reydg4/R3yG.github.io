@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    background-image: linear-gradient(to bottom right, #A88BEB, #F8CEEC);
+    background-image: linear-gradient(to bottom right, #667eea, #764ba2);
     margin-left: -100px;
     margin-right: -100px;
     background-repeat: no-repeat;
@@ -20,7 +20,7 @@ nav ul li{
 }
 a {
     text-decoration: none;
-    color: #B95835;
+    color: #e2d1c3;
 }
 a:hover {
     text-decoration: underline;
@@ -35,7 +35,7 @@ h1 {
     font-family: cursive;
     font-style: italic;
     text-align: center;
-    color: #B95835; 
+    color: #e2d1c3; 
 }
 .photo {
     display:grid;
