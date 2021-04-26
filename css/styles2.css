@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    background-image: linear-gradient(to bottom right, #667eea, #764ba2);
+    background-image: linear-gradient(to bottom right,#379683, #8EE4AF);
     margin-left: -100px;
     margin-right: -100px;
     background-repeat: no-repeat;
@@ -22,7 +22,7 @@ nav ul li{
 }
 a {
     text-decoration: none;
-    color: #e2d1c3;
+    color: #EDF5E1;
 }
 a:hover {
     text-decoration: underline;
