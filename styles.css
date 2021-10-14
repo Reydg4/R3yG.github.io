@@ -1,0 +1,65 @@
+html, body {
+    overscroll-behavior: none;
+}
+
+body {
+    margin: 30px auto;
+    background-image: url("/pic/michael-fenton-0ZQ8vojHNuc-unsplash.jpg");
+    background-size:cover; 
+}
+nav ul{
+        
+    padding: 0px;
+    padding-left: 10px;
+    list-style: none;
+    font-weight: bold;
+    text-align:start;
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    font-family:fantasy;
+    color: rgb(239, 252, 119); 
+}
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
+.Container {
+    display:flex;
+    flex-flow: row;
+}
+
+h1 {
+    font-size: 7em;
+    font-family:fantasy;
+}
+.Corrin {
+    padding-left: 5%;
+    padding-top: 20%;
+    font-family:fantacy;
+    font-style: italic;
+    text-align: start;
+    color: rgb(239, 252, 119); 
+}
+.photo {
+    display:grid;
+}
+.picture {
+    width: 500px;
+    height: auto;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Text {
+    
+    color: rgb(239, 252, 119); 
+    font-size: x-large;
+    font-family: fantacy;
+    text-align: center;
+}
